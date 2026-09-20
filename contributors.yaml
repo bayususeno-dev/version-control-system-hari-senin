@@ -36,7 +36,14 @@ contributors:
     favorite_language: "JavaScript" 
     joined_date: "2026-12-20" 
 
-
+# Add your entry here:
+-  name: "Bayu Suseno"
+    github: "github.com/bayususeno-dev"
+    role: "Student"
+    batch: "19" 
+    skills: ["JavaScript", "SQL", "Python"]
+    favorite_language: "JavaScript" 
+    joined_date: "2026-12-20" 
 
 
 
